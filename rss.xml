@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[sWIrvN10]]></title>
-        <description><![CDATA[sWIrvN10]]></description>
+        <title><![CDATA[I simply love Music or all kinds, soundtrack to my life]]></title>
+        <description><![CDATA[I simply love Music or all kinds, soundtrack to my life]]></description>
         <link>https://thegrid.ai/swirvn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 06:54:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Dec 2015 19:24:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/swirvn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.reverbnation.com/pulseofthelifeforce/song/24549092-lifeforce-who-dis-produced-by-ras</p>]]></description>
+            <link>https://thegrid.ai/swirvn/15332615-0fb5-4c48-9b2a-62430cbe405e/index.html</link>
+            <guid isPermaLink="false">15332615-0fb5-4c48-9b2a-62430cbe405e</guid>
+            <pubDate>Fri, 04 Dec 2015 19:23:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Spotify Blog]]></title>
             <description><![CDATA[<article><h1>The Spotify Blog</h1><p>Today Spotify releases its annual Year in Music top lists -- revealing the artists and songs that were the most popular with music fans around the world in 2015.This year, more music was listened to by more music fans than ever before around the world, with over 75 million listeners enjoying over 20 billion hours...</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.vibe.com/2015/12/drake-ovo-store-los-angeles/</link>
             <guid isPermaLink="false">ca28111a-dbef-42af-8449-6a159b2960ef</guid>
             <pubDate>Fri, 04 Dec 2015 05:25:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tory Lanez - Diego (Official Video)]]></title>
-            <description><![CDATA[<article><h1>Tory Lanez - Diego (Official Video)</h1><p>BASED ON A TRUE STORY . Dir : Zac Facts & Tory Lanez</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d64840bae5c242a667d4b3b3768efc1b5df857c.jpg"></article>]]></description>
-            <link>https://youtu.be/-rO7_UAxBqk</link>
-            <guid isPermaLink="false">20b52225-6407-4fe0-83e4-473fb174e7ac</guid>
-            <pubDate>Fri, 04 Dec 2015 05:14:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
