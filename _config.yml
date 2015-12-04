@@ -1,4 +1,20 @@
-analytics: {}
+name: sWIrvN10
+favicon: null
+layout_spectrum: 0.966216
+typography_spectrum: 0.13357951015983738
+title: 'I simply love Music or all kinds, soundtrack to my life'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -8,11 +24,9 @@ color:
     - '#160600'
   brandStrength: 0.79223
   lightness: 0.778717
-  rhythmicContrast: 0.891891
   saturation: 0.724662
-cta: {}
-layout_spectrum: 0.966216
-name: sWIrvN10
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.13357951015983738
+  rhythmicContrast: 0.891891
+purpose:
+  - name: null
+    item: null
+    url: null
