@@ -4,8 +4,15 @@
         <description><![CDATA[sWIrvN10]]></description>
         <link>https://thegrid.ai/swirvn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 06:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Dec 2015 06:54:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/swirvn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Spotify Blog]]></title>
+            <description><![CDATA[<article><h1>The Spotify Blog</h1><p>Today Spotify releases its annual Year in Music top lists -- revealing the artists and songs that were the most popular with music fans around the world in 2015.This year, more music was listened to by more music fans than ever before around the world, with over 75 million listeners enjoying over 20 billion hours...</p></article>]]></description>
+            <link>https://news.spotify.com/us/2015/12/01/drake-is-the-worlds-most-streamed-artist-on-spotify-for-2015/</link>
+            <guid isPermaLink="false">c6fb3ca8-1ca8-4095-9e6d-d357736d4757</guid>
+            <pubDate>Fri, 04 Dec 2015 06:53:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Plush - Acoustic]]></title>
             <description><![CDATA[<article><h1>Plush - Acoustic</h1><p>Download original video: http://www.megaupload.com/?d=21Y43M9Y</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d05b4adadf89f29a5b675ae53cd7df6b5d1c9a1.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/-rO7_UAxBqk</link>
             <guid isPermaLink="false">20b52225-6407-4fe0-83e4-473fb174e7ac</guid>
             <pubDate>Fri, 04 Dec 2015 05:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Powerful (feat. Ellie Goulding & Tarrus Riley) - Major Lazer]]></title>
-            <description><![CDATA[<article><h1>Powerful (feat. Ellie Goulding & Tarrus Riley) - Major Lazer</h1><p>Listen on Google Play Music</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b0b9f7a73fcf921c3a9be466d07c810044bae0a.jpg"></article>]]></description>
-            <link>https://play.google.com/music/m/Tfobmo4ffyw5bqpnzqoexsbbuiq?t=Powerful_feat_Ellie_Goulding_Tarrus_Riley_-_Major_Lazer</link>
-            <guid isPermaLink="false">507c3072-a714-4296-af79-702970de3c42</guid>
-            <pubDate>Fri, 04 Dec 2015 05:04:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
