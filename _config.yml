@@ -1,17 +1,17 @@
 analytics: {}
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.8611622191154731
-  lightness: 0.5566317841890418
-  rhythmicContrast: 0.027816958212062093
-  saturation: 0.06069889452375543
+    - '#B8B8B8'
+    - '#082840'
+    - '#6090B0'
+    - '#3088C0'
+    - '#60B0E0'
+  brandStrength: 0.72804
+  lightness: 0.516892
+  rhythmicContrast: 0.408784
+  saturation: 0.47973
 cta: {}
-layout_spectrum: 0.255067
+layout_spectrum: 0.618243
 name: sWIrvN10
 opengraph: {}
 purpose: {}
