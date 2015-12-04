@@ -6,13 +6,13 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.8611622191154731
-  lightness: 0.5566317841890418
-  rhythmicContrast: 0.027816958212062093
-  saturation: 0.06069889452375543
+  brandStrength: 0.861162
+  lightness: 0.695945
+  rhythmicContrast: 0.967905
+  saturation: 0.533783
 cta: {}
-layout_spectrum: 0.966216
+layout_spectrum: 0.984797
 name: sWIrvN10
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.13357951015983738
+typography_spectrum: 0.827702
