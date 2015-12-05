@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[I simply love Music or all kinds, soundtrack to my life]]></title>
-        <description><![CDATA[I simply love Music or all kinds, soundtrack to my life]]></description>
+        <title><![CDATA[Music Enthusiast]]></title>
+        <description><![CDATA[Music Enthusiast]]></description>
         <link>https://thegrid.ai/swirvn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 19:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Dec 2015 03:44:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/swirvn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[(Photo) Scarface Actor Robert Loggia Dies At 85 - In Flex We Trust]]></title>
+            <description><![CDATA[<article><h1>(Photo) Scarface Actor Robert Loggia Dies At 85 - In Flex We Trust</h1><p>Robert Loggia who you may remember for his role as King Pin Frank Lopez in "Scarface", has died this afternoon at 85 years old. The actor had been struggling with Alzheimers for the last 5 years and a sudden rebound Wednesday night ended up in a sudden death today.</p><img src="http://www.inflexwetrust.com/wp-content/uploads/2015/12/ifwt_rob.jpg"></article>]]></description>
+            <link>http://www.inflexwetrust.com/2015/12/04/scarface-actor-robert-loggia-dies-at-85/</link>
+            <guid isPermaLink="false">479fab0b-2885-4c84-844e-23b3ebc736ea</guid>
+            <pubDate>Sat, 05 Dec 2015 03:44:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>https://www.reverbnation.com/pulseofthelifeforce/song/24549092-lifeforce-who-dis-produced-by-ras</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://m.huffpost.com/us/entry/565ca681e4b072e9d1c2b46e</link>
             <guid isPermaLink="false">86537855-9f7b-4dae-b1d1-1f82d4c49c29</guid>
             <pubDate>Fri, 04 Dec 2015 05:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drake Releases Visual Ode To L.A. Ahead Of OVO Store Opening]]></title>
-            <description><![CDATA[<article><h1>Drake Releases Visual Ode To L.A. Ahead Of OVO Store Opening</h1><p>Although fans are still awaiting the arrival of Drake's Views From The 6, the Toronto native blessed his support base with a new video. Now, the visual doesn't entail anything specifically about his forthcoming project, but it does have something to do with his OVO imprint.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2313b6747032b219947fe16ccc75ab22c59096e.png"></article>]]></description>
-            <link>http://www.vibe.com/2015/12/drake-ovo-store-los-angeles/</link>
-            <guid isPermaLink="false">ca28111a-dbef-42af-8449-6a159b2960ef</guid>
-            <pubDate>Fri, 04 Dec 2015 05:25:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
