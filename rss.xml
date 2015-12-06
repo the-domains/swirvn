@@ -4,11 +4,18 @@
         <description><![CDATA[Music Enthusiast]]></description>
         <link>https://thegrid.ai/swirvn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Dec 2015 04:02:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Dec 2015 02:58:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/swirvn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Be Together (feat. Wild Belle) - Major Lazer]]></title>
+            <description><![CDATA[<article><h1>Be Together (feat. Wild Belle) - Major Lazer</h1><p>Listen on Google Play Music</p><img src="https://lh3.googleusercontent.com/HEmE2bfuMXuACyoU0FQnVMss3c6liePc5KHuv4lpc5vlx3y8c3NjGEK8FDCqu0mDBtG1-O5Bfg"></article>]]></description>
+            <link>https://play.google.com/music/m/T4sijuctvir3gp5rtm7esulwcpu?t=Be_Together_feat_Wild_Belle_-_Major_Lazer</link>
+            <guid isPermaLink="false">fc99d261-0586-45bf-99a0-e707e0cb0895</guid>
+            <pubDate>Sun, 06 Dec 2015 02:57:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[REVOLT - MGK Performs "Gone" On 'REVOLT Live']]></title>
-            <description><![CDATA[<article><h1>REVOLT - MGK Performs "Gone" On 'REVOLT Live'</h1><p>REVOLTLive</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4729814c65ed427c21de2dd2746886399c66bd31.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>REVOLT - MGK Performs "Gone" On 'REVOLT Live'</h1><p>REVOLTLive</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b275d973cb9736ca3a7fcc9c2a4ffa98b312a639.jpg"></article>]]></description>
             <link>http://revolt.tv/videos/D4BE8F5E-0BD2-4B85-85CA-C6BD2D25C49B</link>
             <guid isPermaLink="false">dc263b22-d850-4772-b8a7-264a9f46ae8c</guid>
             <pubDate>Sat, 05 Dec 2015 04:02:09 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://xgames.espn.go.com/xgames/gallery/13059054/</link>
             <guid isPermaLink="false">b692a631-3312-45c2-b43e-91b6a6b7c4be</guid>
             <pubDate>Fri, 04 Dec 2015 06:05:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Twitter Video]]></title>
-            <description><![CDATA[<article><h1>Twitter Video</h1><p>Rihanna in The Closet #ANTIdiaRy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fd57796abb134d1cd323a11a13418f7c049d8a8.jpg"></article>]]></description>
-            <link>https://amp.twimg.com/v/a49181a7-17e4-492f-b62e-1b7a2d0ab7aa</link>
-            <guid isPermaLink="false">9c7470e2-d306-419a-9470-77d505a95ac0</guid>
-            <pubDate>Fri, 04 Dec 2015 06:04:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
