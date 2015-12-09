@@ -4,11 +4,18 @@
         <description><![CDATA[Music Enthusiast]]></description>
         <link>https://thegrid.ai/swirvn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 16:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Dec 2015 22:15:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/swirvn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[i - Kendrick Lamar]]></title>
+            <description><![CDATA[<article><h1>i - Kendrick Lamar</h1><p>Listen on Google Play Music</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a97f95cfd304f22125cd4ac3f20ae78e89ac14c5.jpg"></article>]]></description>
+            <link>https://play.google.com/music/m/Tqtm3vptr6bvbfgowlunaw7dz7q?t=i_-_Kendrick_Lamar</link>
+            <guid isPermaLink="false">f5f6e1ea-61c5-4b2f-bc85-4af89c1fa623</guid>
+            <pubDate>Wed, 09 Dec 2015 22:14:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[President Obama Reveals His Favorite Song of 2015]]></title>
-            <description><![CDATA[<article><h1>President Obama Reveals His Favorite Song of 2015</h1><p>It's been public knowledge for quite some time that President Barack Obama is a fan of Hip-Hop. He was criticized during his 2008 campaign for having Ludacris on his iPod, and during his eight years in office, artists like Common, Big Sean and Wale have made trips to the White House to perform at marquee events involving POTUS, FLOTUS, or both.</p><img src="http://thesource.com/wp-content/uploads/2015/12/obama-kendrick.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>President Obama Reveals His Favorite Song of 2015</h1><p>It's been public knowledge for quite some time that President Barack Obama is a fan of Hip-Hop. He was criticized during his 2008 campaign for having Ludacris on his iPod, and during his eight years in office, artists like Common, Big Sean and Wale have made trips to the White House to perform at marquee events involving POTUS, FLOTUS, or both.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/178fb085910fa7e535edde3a584fb09e7df279c5.jpg"></article>]]></description>
             <link>http://thesource.com/2015/12/09/president-obama-reveals-his-favorite-song-of-2015/</link>
             <guid isPermaLink="false">73c36622-db7e-4c4f-a5f8-290f9ae780ae</guid>
             <pubDate>Wed, 09 Dec 2015 16:58:30 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.mtv.com/video-clips/cggcde/greatest-party-story-ever-trailer</link>
             <guid isPermaLink="false">4b935c2e-33e3-4b3a-8e39-a60db44f9bc4</guid>
             <pubDate>Sun, 06 Dec 2015 04:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Be Together (feat. Wild Belle) - Major Lazer]]></title>
-            <description><![CDATA[<article><h1>Be Together (feat. Wild Belle) - Major Lazer</h1><p>Listen on Google Play Music</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f5e638a254bba198e82fd1504dc632ef0f11372.jpg"></article>]]></description>
-            <link>https://play.google.com/music/m/T4sijuctvir3gp5rtm7esulwcpu?t=Be_Together_feat_Wild_Belle_-_Major_Lazer</link>
-            <guid isPermaLink="false">fc99d261-0586-45bf-99a0-e707e0cb0895</guid>
-            <pubDate>Sun, 06 Dec 2015 02:57:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
