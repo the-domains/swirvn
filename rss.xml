@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Music Enthusiast]]></title>
         <description><![CDATA[Music Enthusiast]]></description>
-        <link>https://thegrid.ai/swirvn/</link>
+        <link>http://swirvn10.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 02:39:54 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/swirvn/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jan 2016 14:10:11 GMT</lastBuildDate>
+        <atom:link href="http://swirvn10.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kendrick Lamar Releases a Short Film Titled "God is Gangster"]]></title>
+            <description><![CDATA[<article><h1>Kendrick Lamar Releases a Short Film Titled "God is Gangster"</h1><p>https://vimeo.com/150389574</p></article>]]></description>
+            <link>http://swirvn10.com/kendrick-lamar-releases-a-short-film-titled-god-is-gangster/index.html</link>
+            <guid isPermaLink="false">e3a8b69e-38b9-422f-aed3-6339094a91fb</guid>
+            <pubDate>Fri, 01 Jan 2016 14:09:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[J. Cole: Road to Homecoming - F**k Money, Spread Love (Episode 1)]]></title>
-            <description><![CDATA[<article><h1>J. Cole: Road to Homecoming - F**k Money, Spread Love (Episode 1)</h1><p>Go behind the scenes as J. Cole stops in New York, London and North Carolina to get 2014 Forest Hills Drive release ready. J. Cole Forest Hills Drive: Homecoming premieres Saturday, Jan. 9 at 10PM on HBO. 2014 Forest Hills Drive album available now.</p></article>]]></description>
+            <description><![CDATA[<article><h1>J. Cole: Road to Homecoming - F**k Money, Spread Love (Episode 1)</h1><p>Go behind the scenes as J. Cole stops in New York, London and North Carolina to get 2014 Forest Hills Drive release ready. J. Cole Forest Hills Drive: Homecoming premieres Saturday, Jan. 9 at 10PM on HBO. 2014 Forest Hills Drive album available now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78d161d45b6c5848fcf785d47edd77963c931575.jpg"></article>]]></description>
             <link>https://vimeo.com/149018305</link>
             <guid isPermaLink="false">3cea2c9a-e52e-45cb-b9c7-1c2adc2676b5</guid>
             <pubDate>Mon, 21 Dec 2015 02:39:07 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://thesource.com/2015/12/09/president-obama-reveals-his-favorite-song-of-2015/</link>
             <guid isPermaLink="false">73c36622-db7e-4c4f-a5f8-290f9ae780ae</guid>
             <pubDate>Wed, 09 Dec 2015 16:58:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scott Weiland's Family: 'Don't Glorify This Tragedy']]></title>
-            <description><![CDATA[<article><h1>Scott Weiland's Family: 'Don't Glorify This Tragedy'</h1><p>Mary Forsberg Weiland is the mother of the late singer Scott Weiland's teenage children, Noah, 15, and Lucy, 13. She wrote this with their help in the days after his death on Dec 3rd. Sidebar Read Stone Temple Pilots' Open Letter to Scott Weiland " December 3rd, 2015 is not the day Scott Weiland died.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b70e0d4305efd2557bec6236e179ee15a394234f.jpg"></article>]]></description>
-            <link>http://www.rollingstone.com/music/news/scott-weiland-s-family-dont-glorify-this-tragedy-20151207?page=2</link>
-            <guid isPermaLink="false">415aa941-2f60-44a9-bde1-47faba28bdd6</guid>
-            <pubDate>Wed, 09 Dec 2015 16:56:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
