@@ -4,8 +4,15 @@
         <description><![CDATA[Music Enthusiast]]></description>
         <link>http://swirvn10.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 14:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jan 2016 14:10:15 GMT</lastBuildDate>
         <atom:link href="http://swirvn10.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://youtu.be/uFsZbeKoNYI</p>]]></description>
+            <link>http://swirvn10.com/2f300739-0882-473d-a17d-b77abc378fa8/index.html</link>
+            <guid isPermaLink="false">2f300739-0882-473d-a17d-b77abc378fa8</guid>
+            <pubDate>Fri, 01 Jan 2016 14:09:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kendrick Lamar Releases a Short Film Titled "God is Gangster"]]></title>
             <description><![CDATA[<article><h1>Kendrick Lamar Releases a Short Film Titled "God is Gangster"</h1><p>https://vimeo.com/150389574</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://play.google.com/music/m/Tqtm3vptr6bvbfgowlunaw7dz7q?t=i_-_Kendrick_Lamar</link>
             <guid isPermaLink="false">f5f6e1ea-61c5-4b2f-bc85-4af89c1fa623</guid>
             <pubDate>Wed, 09 Dec 2015 22:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[President Obama Reveals His Favorite Song of 2015]]></title>
-            <description><![CDATA[<article><h1>President Obama Reveals His Favorite Song of 2015</h1><p>It's been public knowledge for quite some time that President Barack Obama is a fan of Hip-Hop. He was criticized during his 2008 campaign for having Ludacris on his iPod, and during his eight years in office, artists like Common, Big Sean and Wale have made trips to the White House to perform at marquee events involving POTUS, FLOTUS, or both.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/178fb085910fa7e535edde3a584fb09e7df279c5.jpg"></article>]]></description>
-            <link>http://thesource.com/2015/12/09/president-obama-reveals-his-favorite-song-of-2015/</link>
-            <guid isPermaLink="false">73c36622-db7e-4c4f-a5f8-290f9ae780ae</guid>
-            <pubDate>Wed, 09 Dec 2015 16:58:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
