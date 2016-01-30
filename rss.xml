@@ -4,15 +4,8 @@
         <description><![CDATA[Music Enthusiast]]></description>
         <link>http://swirvn10.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 15:59:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 15:59:07 GMT</lastBuildDate>
         <atom:link href="http://swirvn10.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Pistons' owner pledges $10M to fix Flint's water]]></title>
-            <description><![CDATA[<article><h1>Pistons' owner pledges $10M to fix Flint's water</h1><p>FLINT, Mich. -- Tom Gores, a Flint native and owner of the Detroit Pistons, is pledging to raise $10 million to address the short- and long-term needs of his Michigan hometown, where the drinking water is contaminated with lead.</p><img src="http://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0119%2Fr45196_1296x729_16%2D9.jpg"></article>]]></description>
-            <link>http://espn.go.com/nba/story/_/id/14665342</link>
-            <guid isPermaLink="false">f1fbdf39-bb8d-4f4d-8946-34a775d3b23b</guid>
-            <pubDate>Sat, 30 Jan 2016 15:58:53 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Kanye West, Kirk Franklin, Andre 3000, Puff Daddy & More Were In The Studio Together]]></title>
             <description><![CDATA[<article><h1>Kanye West, Kirk Franklin, Andre 3000, Puff Daddy & More Were In The Studio Together</h1><p>Kanye West is squadding up-no, not for a fight with Wiz Khalifa -for his album Waves. On Friday night (Jan. 29), an epic meeting of the minds took place as Yeezy continues to gear up for his seventh studio album's release.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/078162efc290a1a2e9a5e072e6defef6065c55f3.png"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://youtu.be/lI9jywQ4cgc</link>
             <guid isPermaLink="false">5f876589-9021-470f-938a-35790f554cf6</guid>
             <pubDate>Fri, 29 Jan 2016 00:33:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spotify's Year in Music: Drake Most Streamed Artist, Major Lazer & DJ Snake Had Top Song | Billboard]]></title>
+            <description><![CDATA[<article><h1>Spotify's Year in Music: Drake Most Streamed Artist, Major Lazer & DJ Snake Had Top Song | Billboard</h1><p>Spotify unveiled its annual Year in Music results on Tuesday, with Drake topping a crowded field to become the world's most streamed artist. The rapper had over 1.8 billion streams and 46 million listeners. The year's most streamed female artist was Rihanna, with over 1 billion streams and 57 million listeners.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc3f6a0cc77dcee46b9ef152303d2ba8abc26449.jpg"></article>]]></description>
+            <link>http://www.billboard.com/articles/news/6778065/spotify-year-music-lists-2015-drake-rihanna-major-lazer-ed-sheeran</link>
+            <guid isPermaLink="false">8495e876-c760-4ac1-a331-08f6bec87d6d</guid>
+            <pubDate>Fri, 01 Jan 2016 14:43:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
